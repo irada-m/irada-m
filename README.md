@@ -1,7 +1,6 @@
 # Hi there, I'm Irada 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IradaMamedovaa&label=Profile%20views&color=0e75b6&style=flat" alt="IradaMamedovaa" /> </p>
 
-- 🔭 I’m currently working as a **Frontend Developer**.
 - 📫 How to reach me: **irada.mammadovaaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
