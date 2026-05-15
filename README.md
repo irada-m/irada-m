@@ -25,6 +25,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> &nbsp&nbsp
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp&nbsp
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IradaMamedovaa&show_icons=true&locale=en&layout=compact" alt="IradaMamedovaa" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=IradaMamedovaa&show_icons=true&locale=en" alt="IradaMamedovaa" /></p>
