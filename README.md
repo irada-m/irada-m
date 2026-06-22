@@ -43,8 +43,4 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=irada-m&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=irada-m&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
